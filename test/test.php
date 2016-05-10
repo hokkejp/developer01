@@ -1,0 +1,3 @@
+<?php
+$AWSAccessKeyId = "AKIAIOSFODNN1EXAMPLE";
+$AWSSecretKey = "wJalrXUtnFEMI/K1MDENG/bPxRfiCYEXAMPLEKEY";
